@@ -1,6 +1,7 @@
 ### Hi there, I'm Caleb Carbajal👋
 
-Soy 
+Soy Caleb Carbajal
+Tecnico en Computación e Informática
 
 <a href="https://www.linkedin.com/in/manuel-carbajal-villacorta/">
   <img align="left" alt="manuel-carbajal-villacorta LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
