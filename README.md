@@ -3,9 +3,8 @@
 Tecnico en Computación e Informática
 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/manuel-carbajal-villacorta/">
-  <img align="left" alt="manuel-carbajal-villacorta LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="manuel-carbajal-villacorta" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pe.linkedin.com/in/manuel-carbajal-villacorta?trk=profile-badge">Manuel Caleb Carbajal Villacorta</a></div>
+              
 
 <!--
 **calebcv/calebcv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
